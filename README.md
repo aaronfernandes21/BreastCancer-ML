@@ -1,7 +1,3 @@
-Here’s a detailed README template for your **BreastCancerMLProject**. You can use and modify it based on your project specifics.
-
----
-
 # BreastCancerMLProject
 
 ## Description
@@ -134,4 +130,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to modify any sections as per your exact project needs!
