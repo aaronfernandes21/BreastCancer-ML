@@ -9,7 +9,7 @@ This project uses machine learning classifiers to predict whether a tumor is ben
 
 The models are trained and tested on the Breast Cancer Wisconsin dataset. Their performance is compared using accuracy, confusion matrices, and classification reports. The project also visualizes the accuracy comparison and feature importance for the Random Forest classifier.
 
-## Dataset
+## Dataset Implemented
 
 The dataset used in this project is the **Breast Cancer Wisconsin dataset**. It includes the following columns:
 - **diagnosis**: Target variable with values 'M' (Malignant) and 'B' (Benign).
